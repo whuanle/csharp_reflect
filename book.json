@@ -3,7 +3,6 @@
     "tbfed-pagefooter",
     "anchor-navigation-ex",
     "mermaid-gb3",
-    "insert-logo",
     "chapter-fold",
     "advanced-emoji",
     "github",
@@ -25,7 +24,7 @@
     }
   },
   "github": {
-    "url": "https://github.com/whuanle/csharp_thread"
+    "url": "https://github.com/whuanle"
   },
   "pluginsConfig": {
     "tbfed-pagefooter": {
