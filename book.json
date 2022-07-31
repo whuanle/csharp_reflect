@@ -24,6 +24,9 @@
       "痴者工良的博客": "https://www.whuanle.cn"
     }
   },
+  "github": {
+    "url": "https://github.com/whuanle/csharp_thread"
+  },
   "pluginsConfig": {
     "tbfed-pagefooter": {
       "copyright": "Copyright &copy 痴者工良 2022",
