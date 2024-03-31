@@ -66,8 +66,11 @@
     },
     "head-append": {
       "code": [
-        "<script type=\"text/javascript\">",
-        "</script>"
+        "<SCRIPTTAG>",
+        "var _hmt = _hmt || [];",
+        "(function() {",
+        "})();",
+        "</SCRIPTTAG>"
       ]
     }
   }
